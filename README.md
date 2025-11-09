@@ -1,4 +1,6 @@
 # EX - 5 Asset-Oriented Risk Assessment Of Storage Assets In AWS And Azure
+## NAME:VESHWANTH
+## REG NO:212224230300
 # Aim
 To assess the risks associated with storage assets in AWS and Azure using an asset-oriented approach by identifying vulnerabilities, threats, and implementing appropriate mitigation strategies.
 
