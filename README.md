@@ -52,4 +52,4 @@ Identified storage assets in AWS and Azure.
 Evaluated threats, vulnerabilities, and risks associated with each asset.
 Applied appropriate risk mitigation strategies.
 # Result
-Successfully performed asset-oriented risk assessment of storage assets in AWS and Azure and implemented suitable security contro
+Successfully performed asset-oriented risk assessment of storage assets in AWS and Azure and implemented suitable security control.
